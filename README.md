@@ -1,0 +1,1 @@
+Uma calculadora simples desenvolvida a base de HTML, CSS e JavaScript. Foi utilizado o editor de código Visual Studio Code. O aquivo em JavaScript contém alguns comentários explicando sobre os comandos utilizados.
